@@ -1,4 +1,4 @@
-git clone https://github.com/YOUR_USERNAME/wires.git
+git clone https://github.com/kc7aad/wires/wires.git
 cd wires
 
 # Download all files from /mnt/user-data/outputs/ and put them here:
