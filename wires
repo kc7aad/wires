@@ -1,0 +1,17 @@
+git clone https://github.com/YOUR_USERNAME/wires.git
+cd wires
+
+# Download all files from /mnt/user-data/outputs/ and put them here:
+# - wires_game.py
+# - main.py
+# - buildozer.spec
+# - requirements.txt
+# - README.md
+# - QUICKSTART.md
+# - GAME_MECHANICS.md
+# - .github/workflows/build.yml (create .github/workflows folder first)
+# - .gitignore
+
+git add .
+git commit -m "Add Wires game"
+git push origin main
